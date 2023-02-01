@@ -1,0 +1,53 @@
+h4{color:green}
+h3{color: red;}
+h2{color:green;}
+h1{color:green;}
+td{color:red;}
+th{color:blue;}
+ol{color:yellow}
+p{color: red;}
+body{background-image: url(https://fadeawayworld.net/.image/t_share/MTkxNzAwNzgxMzU3ODY4NzA3/298155234_620276243030944_2208500183572649100_n.jpg);}
+       
+
+
+.div1 {
+    margin: auto;
+    width: 50%;
+    border: 3px solid red;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+}
+
+.div2 { 
+    margin: auto;
+    width: 20%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+}
+
+.div3 {
+    margin: auto;
+    width: 20%;
+    border: 3px solid yellow;
+    padding: 10px;
+    background-color: black;
+}
+
+.div4 {
+    margin: auto;
+    width: 15%;
+    border: 3px solid blue;
+    padding: 10px;
+    background-color: black;
+}
+
+.div5 {
+    margin: auto;
+    width: 50%;
+    border: 3px solid red;
+    padding: 10px;
+    background-color: black;
+}
