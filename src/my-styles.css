@@ -1,11 +1,11 @@
-h4{color:green}
-h3{color: red;}
-h2{color:green;}
-h1{color:green;}
-td{color:red;}
+h4{color:green; font-family: cursive;}
+h3{color: red; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h2{color:yellow;}
+h1{color:red;letter-spacing: 0.05em; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+td{color:yellow;}
 th{color:blue;}
 ol{color:yellow}
-p{color: red;}
+p{color: yellow;}
 body{background-image: url(https://fadeawayworld.net/.image/t_share/MTkxNzAwNzgxMzU3ODY4NzA3/298155234_620276243030944_2208500183572649100_n.jpg);}
        
 
@@ -13,7 +13,7 @@ body{background-image: url(https://fadeawayworld.net/.image/t_share/MTkxNzAwNzgx
 .div1 {
     margin: auto;
     width: 50%;
-    border: 3px solid red;
+    border: 3px solid green;
     padding: 10px;
     text-align: center;
     background-color: black;
@@ -21,11 +21,11 @@ body{background-image: url(https://fadeawayworld.net/.image/t_share/MTkxNzAwNzgx
 
 .div2 { 
     margin: auto;
-    width: 20%;
-    border: 3px solid green;
+    width: 25%;
+    border: 3px solid red;
     padding: 10px;
     text-align: center;
-    background-color: black;
+    background-color: black;;
 }
 
 .div3 {
@@ -46,7 +46,7 @@ body{background-image: url(https://fadeawayworld.net/.image/t_share/MTkxNzAwNzgx
 
 .div5 {
     margin: auto;
-    width: 50%;
+    width: 30%;
     border: 3px solid red;
     padding: 10px;
     background-color: black;
